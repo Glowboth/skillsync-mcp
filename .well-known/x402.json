@@ -1,0 +1,12 @@
+{
+  "name": "Glowboth/skillsync-mcp",
+  "description": "Provide an MCP server that enables seamless integration and management of SkillsMP data with Node.js environments supporting Model Context Protocol.",
+  "accepts": [
+    {
+      "network": "eip155:8453",
+      "asset": "USDC",
+      "address": "YOUR_WALLET_ADDRESS"
+    }
+  ],
+  "resources": []
+}

